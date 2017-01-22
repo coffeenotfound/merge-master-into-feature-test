@@ -4,3 +4,5 @@ FEATURE :: MORE CODE IN FEATURE (between master code)
 SOME EVEN MORE CODE IN MASTER
 
 FEATURE :: CODE IN FEATURE
+
+~~~ HOTFIX IN MASTER (post-feature) ~~~
