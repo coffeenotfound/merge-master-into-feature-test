@@ -5,4 +5,6 @@ SOME EVEN MORE CODE IN MASTER
 
 FEATURE :: CODE IN FEATURE
 
+FEATURE :: POST HOTFIX MERGE (master->feature)!
+
 ~~~ HOTFIX IN MASTER (post-feature) ~~~
